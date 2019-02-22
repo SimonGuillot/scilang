@@ -1,0 +1,562 @@
+? !!python/tuple
+- !!python/unicode 'ai1P'
+- !!python/unicode 'ai1S'
+: !!python/unicode 'am-E': ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwH])am$
+  !!python/unicode 'm-': ^(.*[iyEe92êû])m$
+? !!python/tuple
+- !!python/unicode 'ai1S'
+- !!python/unicode 'pc1S'
+: !!python/unicode '-rE': ^(.*[ptbdfsvzmnrE6aêâ])i$
+  !!python/unicode '6.E-E.6rE': !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])6([ptbdfsvzmnl])E$'
+  !!python/unicode 'E-6rE': ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])E$
+  !!python/unicode 'E-rE': !!python/unicode '^krEE$'
+  EJi-êdrE: !!python/unicode '^(.*[pt])EJi$'
+  !!python/unicode 'Eky-ivrE': !!python/unicode '^syrvEky$'
+  !!python/unicode 'H.-r.': !!python/unicode '^(.*[tdn])yHE$'
+  aJi-êdrE: !!python/unicode '^(.*)ZwaJi$'
+  !!python/unicode 'al.-ir.': !!python/unicode '^alE$'
+  !!python/unicode 'fy-s6rE': !!python/unicode '^fy$'
+  !!python/unicode 'i-6rE': !!python/unicode '^(.*)fi$'
+  !!python/unicode 'i-ErE': !!python/unicode '^vi$'
+  !!python/unicode 'i-EtrE': !!python/unicode '^(.*)mi$'
+  !!python/unicode 'i-jErE': !!python/unicode '^asi$'
+  !!python/unicode 'i-rE': ^(.*[ptkbdgfsSvzZjrwHE96O][jrwHiyEe926auOoêûâô][ptbdfsvz])i$
+  i-âdrE: !!python/unicode '^(.*)pri$'
+  !!python/unicode 'j.-r.': !!python/unicode '^(.*[ptkbdgfsSvzZjlrwH][iEe])jE$'
+  !!python/unicode 'jE-irE': !!python/unicode '^(.*[ptbdfsvzmnr])jE$'
+  !!python/unicode 'ly-drE': !!python/unicode '^vuly$'
+  !!python/unicode 'vi-rE': !!python/unicode '^(.*)Ekrivi$'
+  !!python/unicode 'w.-r.': !!python/unicode '^ZuwE$'
+  !!python/unicode 'wajE-ErE': ^âvwajE$
+  !!python/unicode 'y-6vrE': !!python/unicode '^(.*[tdsz])y$'
+  !!python/unicode 'y-ErE': !!python/unicode '^ply$'
+  !!python/unicode 'y-EtrE': !!python/unicode '^(.*[pk][E96aO][mnr])y$'
+  !!python/unicode 'y-OrE': !!python/unicode '^(.*)y$'
+  !!python/unicode 'y-irE': !!python/unicode '^(.*)ly$'
+  !!python/unicode 'y-rE': !!python/unicode '^([pkbgmJ])ury$'
+  !!python/unicode 'y-warE': !!python/unicode '^(.*[bvr])y$'
+  !!python/unicode 'zi-rE': !!python/unicode '^([td][rE6][ptbdEa][bdvzr])Hizi$'
+  ê-jêdrE: ^(.*[ptbdfsvz])ê$
+? !!python/tuple
+- !!python/unicode 'ai2P'
+- !!python/unicode 'ai2S'
+: !!python/unicode 't-': !!python/unicode '^(.*[fs][iyEe92a])t$'
+? !!python/tuple
+- !!python/unicode 'ai2S'
+- !!python/unicode 'pc2P'
+: !!python/unicode '-rje': !!python/unicode '^([ptfs][E96aO])rti$'
+  !!python/unicode 'a-6rje': ^(.*[ptbdmn][E96aOêûâô][tdsSzZn])a$
+  !!python/unicode 'fy-s6rje': !!python/unicode '^fy$'
+  !!python/unicode 'i-6rje': !!python/unicode '^fi$'
+  !!python/unicode 'i-Erje': !!python/unicode '^vi$'
+  i-âdrije: !!python/unicode '^(.*)pri$'
+  !!python/unicode 'y-6vrije': !!python/unicode '^r6sy$'
+  !!python/unicode 'y-Erje': !!python/unicode '^ply$'
+  !!python/unicode 'y-Etrije': !!python/unicode '^kOny$'
+  !!python/unicode 'y-urje': !!python/unicode '^py$'
+  !!python/unicode 'y-warje': !!python/unicode '^kry$'
+  ê-jêdrije: ^vê$
+? !!python/tuple
+- !!python/unicode 'ai3P'
+- !!python/unicode 'fi1P'
+: -ô: ^(.*[ptkbdgfsSvzZmnJjlrwHE96aOêûâô])ir$
+  6.E.-E.6.ô: !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])6([ptbdfsvzmnl])Er$'
+  E.-6.ô: ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])Er$
+  EJir-êdrô: !!python/unicode '^([Ea])tEJir$'
+  Ekyr-ivrô: !!python/unicode '^vEkyr$'
+  HEr-rô: !!python/unicode '^(.*[tdnl])yHEr$'
+  aJir-êdrô: !!python/unicode '^r6ZwaJir$'
+  alEr-irô: !!python/unicode '^alEr$'
+  fy.-s6.ô: !!python/unicode '^fyr$'
+  i.-6.ô: !!python/unicode '^(.*[fvj])ir$'
+  i.-E.ô: !!python/unicode '^r6vir$'
+  ir-Etrô: !!python/unicode '^mir$'
+  ir-rô: ^(.*[ptkbdgfsSvzZjrwHE96O][jrwHiyEe926auOoêûâô][ptbdfsvz])ir$
+  ir-âdrô: !!python/unicode '^(.*)prir$'
+  jEr-irô: ^(.*[mrE6ê][jriEe6a][fsvzr])jEr$
+  jEr-rô: !!python/unicode '^(.*[ptbdfsvzlr][iEe])jEr$'
+  lyr-drô: !!python/unicode '^vulyr$'
+  wEr-rô: !!python/unicode '^ZuwEr$'
+  wajEr-Erô: ^âvwajEr$
+  y.-O.ô: !!python/unicode '^(.*)yr$'
+  y.-u.ô: !!python/unicode '^pyr$'
+  yr-6vrô: !!python/unicode '^(.*[tdsz])yr$'
+  yr-Etrô: !!python/unicode '^(.*[pk][E96aO][mnr])yr$'
+  yr-rô: !!python/unicode '^muryr$'
+  yr-warô: !!python/unicode '^(.*[bvr])yr$'
+  zir-rô: ^(.*[kgjrE6][ptbdmnE96Oêûô][bdvzr])Hizir$
+  êr-jêdrô: ^(.*[ptbdfsvz])êr$
+? !!python/tuple
+- !!python/unicode 'fi1P'
+- !!python/unicode 'fi1S'
+: j6rô-rE: ^(.*[ptfs])Ej6rô$
+  rô-j6rE: ^(.*[ptfs])Erô$
+  ô-E: ^(.*[ptkbdgfsSvzZjrwHiyEe926auOo])rô$
+? !!python/tuple
+- !!python/unicode 'fi1S'
+- !!python/unicode 'pI1P'
+: 6rE-wajô: !!python/unicode '^s6rE$'
+  6rE-ô: ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])6rE$
+  E.6rE-6.ô: !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])E([ptbdfsvzmnl])6rE$'
+  ErE-wajô: !!python/unicode '^vErE$'
+  OrE-Ejô: !!python/unicode '^OrE$'
+  OrE-aSô: !!python/unicode '^sOrE$'
+  drE-lô: !!python/unicode '^vudrE$'
+  irE-alô: !!python/unicode '^irE$'
+  irE-jô: !!python/unicode '^r6mErsirE$'
+  irE-ô: ^(.*[fsvzrE96aO][fvrE6aêâ][ptbdfsvzr])irE$
+  jErE-Ejô: !!python/unicode '^asjErE$'
+  jêdrE-6nô: ^(.*[ptbdfsvz])jêdrE$
+  rE-jô: !!python/unicode '^(.*[ptkbdgfsSvzZjrwH][Ea])rE$'
+  rE-sô: !!python/unicode '^(.*[iEea][dzZn])irE$'
+  rE-zô: !!python/unicode '^([ptbdfsvz][iEe6])rE$'
+  rE-ô: ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZjrwHiyEe926uOo])rE$
+  trE-sô: !!python/unicode '^(.*[pk][E96aO][mnr])EtrE$'
+  warE-Ejô: !!python/unicode '^aswarE$'
+  warE-yvô: !!python/unicode '^bwarE$'
+  âdrE-6nô: ^(.*)prâdrE$
+? !!python/tuple
+- !!python/unicode 'fi2P'
+- !!python/unicode 'fi2S'
+: !!python/unicode 'e-a': !!python/unicode '^(.*[ptkbdgfsSvzZjrwHiyEe926auOo])re$'
+  !!python/unicode 'j6re-ra': !!python/unicode '^pEj6re$'
+  !!python/unicode 're-j6ra': !!python/unicode '^pEre$'
+? !!python/tuple
+- !!python/unicode 'fi2S'
+- !!python/unicode 'pI2P'
+: !!python/unicode '6ra-Et': !!python/unicode '^f6ra$'
+  !!python/unicode '6ra-e': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])6ra$
+  !!python/unicode '6ra-waje': !!python/unicode '^s6ra$'
+  !!python/unicode 'E.6ra-6.e': !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])E([ptbdfsvzmnl])6ra$'
+  !!python/unicode 'Era-waje': !!python/unicode '^(.*)vEra$'
+  !!python/unicode 'Ora-Eje': !!python/unicode '^Ora$'
+  !!python/unicode 'Ora-aSe': !!python/unicode '^sOra$'
+  !!python/unicode 'dra-le': !!python/unicode '^vudra$'
+  !!python/unicode 'ira-ale': !!python/unicode '^ira$'
+  !!python/unicode 'ira-e': ^(.*[fsSvzZjrwHiyEe926auOo][fvrE6aêâ][ptbdfsvzmnr])ira$
+  !!python/unicode 'ira-je': !!python/unicode '^(.*[fsvzr])ira$'
+  jêdra-6ne: ^(.*[ptbdfsvz])jêdra$
+  !!python/unicode 'ra-He': !!python/unicode '^(.*[tdnl])yra$'
+  !!python/unicode 'ra-e': ^(.*[ptkbdgfsSvzZmnJjrwHE96Oêûô][jrwHiyEe926auOoêûâô][ptbdfsvzr])ra$
+  !!python/unicode 'ra-je': !!python/unicode '^(.*[ptkbdgfsSvzZjlrwH][iEea])ra$'
+  !!python/unicode 'ra-se': ^(.*[bjHiyEe92a][ptkbdgfsSvzZmnJjrE6ê])ira$
+  !!python/unicode 'ra-t': !!python/unicode '^dira$'
+  !!python/unicode 'ra-ve': !!python/unicode '^Ekrira$'
+  !!python/unicode 'ra-we': !!python/unicode '^(.*[fsSvzZ])ura$'
+  !!python/unicode 'ra-ze': !!python/unicode '^(.*[jlH])ira$'
+  !!python/unicode 'tra-se': !!python/unicode '^(.*)kOnEtra$'
+  !!python/unicode 'udra-6je': !!python/unicode '^vudra$'
+  !!python/unicode 'wara-yve': !!python/unicode '^bwara$'
+  âdra-6ne: ^(.*)prâdra$
+  êdra-EJe: ^(.*[ptbdfsvzr])êdra$
+? !!python/tuple
+- !!python/unicode 'ii1P'
+- !!python/unicode 'pP'
+: avjô-Ejâ: ^avjô$
+  ijô-jâ: ^(.*[fsvzr])ijô$
+  ijô-â: ^(.*[fsSvzZjrwHiyEe926auOoêûâô][ptkbdgfsSvzZ][lr])ijô$
+  iô-â: ^(.*[uOo][fv])riô$
+  jô-â: ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHiyEe926uOoêûô])jô$
+  vjô-Sâ: ^savjô$
+  ô-â: ^(.*[ptkbdgfsSvzZjlrwH][iEea][Jj])ô$
+? !!python/tuple
+- !!python/unicode 'ii1S'
+- !!python/unicode 'ppMP'
+: !!python/unicode '6nE-i': !!python/unicode '^(.*)pr6nE$'
+  !!python/unicode '6vE-y': !!python/unicode '^(.*[tdsz])6vE$'
+  !!python/unicode '6zE-E': !!python/unicode '^(.*)f6zE$'
+  !!python/unicode 'E-e': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHE96Oêûô])E$
+  !!python/unicode 'E-i': ^(.*[ptkbdgfsSvzZjrwHE96aO][jriEe6aêâ][ptbdfsvzmnj])E$
+  !!python/unicode 'E-y': ^(.*[ptkbdgfsSvzZjrwHE96O][jrwHiyEe926auOoêûâô][ptbdfsvzmnlr])E$
+  EJE-ê: !!python/unicode '^(.*[ptbdfsvzr])EJE$'
+  !!python/unicode 'EjE-i': !!python/unicode '^(.*)asEjE$'
+  !!python/unicode 'ErE-i': !!python/unicode '^akErE$'
+  !!python/unicode 'EsE-y': !!python/unicode '^(.*[pk][E96aO][mnr])EsE$'
+  !!python/unicode 'EtE-i': !!python/unicode '^(.*)mEtE$'
+  !!python/unicode 'EzE-y': !!python/unicode '^tEzE$'
+  !!python/unicode 'HE-': ^([kgjE6][fsvzrE96Oêûô])klyHE$
+  aJE-ê: !!python/unicode '^r6ZwaJE$'
+  !!python/unicode 'avE-y': !!python/unicode '^(.*)avE$'
+  !!python/unicode 'ivE-Eky': !!python/unicode '^vivE$'
+  !!python/unicode 'izE-y': !!python/unicode '^(.*)lizE$'
+  !!python/unicode 'jE-': !!python/unicode '^(.*[ptfs][jrwH][iEe])jE$'
+  !!python/unicode 'rE-Er': !!python/unicode '^(.*[uOo][fv])rE$'
+  !!python/unicode 'sE-': ^(.*[ptkbdgfsSvzZmnJjlrwHE96aOêûâô])isE$
+  !!python/unicode 'u.E-O.': !!python/unicode '^murE$'
+  !!python/unicode 'uvE-y': !!python/unicode '^EmuvE$'
+  !!python/unicode 'vE-': !!python/unicode '^(.*[bvr][iy])vE$'
+  !!python/unicode 'vE-y': !!python/unicode '^rEzOlvE$'
+  !!python/unicode 'wajE-y': !!python/unicode '^(.*[vr])wajE$'
+  !!python/unicode 'zE-': !!python/unicode '^(.*[bdjH])izE$'
+? !!python/tuple
+- !!python/unicode 'ii2P'
+- !!python/unicode 'pi1S'
+: !!python/unicode '6.je-9.': !!python/unicode '^(.*[pbE6][mnl])6rje$'
+  !!python/unicode '6.je-E.': !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])6([ptbdfsvzmnl])je$'
+  6nje-jê: !!python/unicode '^(.*[ptbdfsvz])6nje$'
+  6nje-â: !!python/unicode '^(.*)pr6nje$'
+  !!python/unicode '6vje-wa': !!python/unicode '^(.*[tdsz])6vje$'
+  !!python/unicode '6zje-E': !!python/unicode '^f6zje$'
+  EJe-ê: !!python/unicode '^krEJe$'
+  !!python/unicode 'Eje-je': !!python/unicode '^asEje$'
+  !!python/unicode 'Eje-wa': !!python/unicode '^asEje$'
+  !!python/unicode 'Etje-sHi': !!python/unicode '^Etje$'
+  !!python/unicode 'O.je-o.': !!python/unicode '^(.*)O([ptbdfsvzl])je$'
+  !!python/unicode 'aisje-E': !!python/unicode '^aisje$'
+  !!python/unicode 'alje-o': !!python/unicode '^valje$'
+  !!python/unicode 'alje-vE': !!python/unicode '^alje$'
+  !!python/unicode 'avje-E': !!python/unicode '^(.*)avje$'
+  !!python/unicode 'dje-': ^(.*[ptbdfsvzrE6][r6Oâô])dje$
+  !!python/unicode 'e-': !!python/unicode '^(.*[ptkbdgfsSvzZ][iyEe92a][Jj])e$'
+  !!python/unicode 'ije-': ^(.*[iyEe926auOoêûâô][ptkbdgfsSvzZ][lr])ije$
+  !!python/unicode 'je-': ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô])je$
+  !!python/unicode 'mje-': !!python/unicode '^(.*)dOrmje$'
+  !!python/unicode 'sje-': ^(.*[bgvjrwHiyEe926auOo][ptkbdgfsSvzZmnJjrE6aêâ][iEe])sje$
+  !!python/unicode 'tje-': ^(.*[ptbdfsvzmnrE96aOêûâô][rE6aêâ])tje$
+  !!python/unicode 'u.je-9.': !!python/unicode '^murje$'
+  !!python/unicode 'ulje-2': !!python/unicode '^vulje$'
+  !!python/unicode 'uvje-2': !!python/unicode '^puvje$'
+  !!python/unicode 'vje-': !!python/unicode '^(.*[vjrwH])ivje$'
+  !!python/unicode 'yvje-wa': !!python/unicode '^byvje$'
+  !!python/unicode 'zje-': !!python/unicode '^(.*[ptkbdgfsSvzZjlrwH][iyEe926uOo])zje$'
+? !!python/tuple
+- !!python/unicode 'inf'
+- !!python/unicode 'pi2P'
+: '-': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHE96Oêûô])e$
+  !!python/unicode 'ir-e': ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][fvjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjr])ir$
+  !!python/unicode 'ir-je': !!python/unicode '^(.*)rir$'
+  !!python/unicode 'r-': !!python/unicode '^Etr$'
+  !!python/unicode 'r-He': ^kôklyr$
+  !!python/unicode 'r-e': ^(.*[ptkbdgfsSvzZmnJjrwHE96Oêûô][jrwHiyEe926auOoêûâô][ptkbdgfsSvzZ])r$
+  !!python/unicode 'r-je': !!python/unicode '^(.*[fsvzr][wH][iEea])r$'
+  !!python/unicode 'r-se': ^(.*[ptkbdgfsSvzZmnJjlrwHE96aOêûâô])ir$
+  !!python/unicode 'r-t': !!python/unicode '^(.*[ptbdfsvz][iEe])r$'
+  !!python/unicode 'r-ve': !!python/unicode '^(.*[fsvzE])krir$'
+  !!python/unicode 'r-ze': !!python/unicode '^(.*[ptbdfsvzjlH][iEe])r$'
+  !!python/unicode 'tr-se': !!python/unicode '^(.*[pk][E96aO][mnr])Etr$'
+  !!python/unicode 'udr-Olve': !!python/unicode '^rEzudr$'
+  !!python/unicode 'war-Eje': !!python/unicode '^aswar$'
+  !!python/unicode 'war-e': !!python/unicode '^(.*[iyEe926auOo][vzl])war$'
+  !!python/unicode 'war-yve': !!python/unicode '^bwar$'
+  !!python/unicode 'wir-Oje': !!python/unicode '^wir$'
+  âdr-6ne: ^(.*)prâdr$
+  êdr-EJe: ^(.*[ptbdfsvzlr])êdr$
+  êdr-aJe: ^(.*)Zwêdr$
+? !!python/tuple
+- !!python/unicode 'is1P'
+- !!python/unicode 'ai3P'
+: sjô-r: ^(.*[iy])sjô$
+? !!python/tuple
+- !!python/unicode 'is1S'
+- !!python/unicode 'ii1S'
+: !!python/unicode 'as-E': ^(.*[tdsz][iyEe926auOoêûâô][ptkbdgfsSvzZmnJlr])as$
+  !!python/unicode 'fys-EtE': !!python/unicode '^fys$'
+  !!python/unicode 'is-6zE': !!python/unicode '^fis$'
+  !!python/unicode 'is-E': ^(.*[ptbdfsvzrE6][jriEe6aêâ][ptbdfsvz])is$
+  !!python/unicode 'ys-6vE': !!python/unicode '^dys$'
+  !!python/unicode 'ys-E': !!python/unicode '^vulys$'
+  !!python/unicode 'ys-EzE': !!python/unicode '^plys$'
+  !!python/unicode 'ys-avE': !!python/unicode '^ys$'
+  !!python/unicode 'ys-uvE': !!python/unicode '^pys$'
+  ês-6nE: ^vês$
+? !!python/tuple
+- !!python/unicode 'is2P'
+- !!python/unicode 'ps1S'
+: !!python/unicode 'fysje-swa': !!python/unicode '^fysje$'
+  !!python/unicode 'i.je-a.': !!python/unicode '^fisje$'
+  !!python/unicode 'ysje-wav': !!python/unicode '^dysje$'
+? !!python/tuple
+- !!python/unicode 'pI2P'
+- !!python/unicode 'ps2P'
+: '-': !!python/unicode '^(.*[Ea])je$'
+  !!python/unicode '6je-ulje': !!python/unicode '^v6je$'
+  !!python/unicode 'Et-asje': !!python/unicode '^fEt$'
+  !!python/unicode 'e-ije': ^râtre$
+  !!python/unicode 'e-je': ^(.*[jrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJlr])e$
+  !!python/unicode 't-zje': !!python/unicode '^dit$'
+? !!python/tuple
+- !!python/unicode 'pI2S'
+- !!python/unicode 'fi2P'
+: !!python/unicode '-6re': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])$
+  !!python/unicode '-dre': ^(.*[ptkbdgfsSvzZjrwHE96O][rE96aOêûâô])$
+  !!python/unicode '-ire': !!python/unicode '^(.*[uOo][fv])r$'
+  !!python/unicode '-j6re': !!python/unicode '^pE$'
+  !!python/unicode '-mire': !!python/unicode '^dOr$'
+  !!python/unicode '-re': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][jrwHiyEe926auOo])$
+  !!python/unicode '-tire': ^(.*[fsvzrE96aO][r6â])$
+  !!python/unicode '-tre': !!python/unicode '^(.*[bdmn][Ea])$'
+  !!python/unicode '-vire': !!python/unicode '^sEr$'
+  !!python/unicode '-vre': !!python/unicode '^sHi$'
+  !!python/unicode '9.-6.6re': !!python/unicode '^pl9r$'
+  !!python/unicode '9.-u.re': !!python/unicode '^m9r$'
+  !!python/unicode '9j-udre': !!python/unicode '^v9j$'
+  !!python/unicode 'E-6re': !!python/unicode '^fE$'
+  !!python/unicode 'E-Ore': !!python/unicode '^E$'
+  !!python/unicode 'E-aire': !!python/unicode '^E$'
+  !!python/unicode 'aS-Ore': !!python/unicode '^saS$'
+  !!python/unicode 'j-re': !!python/unicode '^EsEj$'
+  !!python/unicode 'o.-O.6re': !!python/unicode '^(.*)o([ptbdfsvz])$'
+  !!python/unicode 'va-ire': !!python/unicode '^va$'
+  !!python/unicode 'wa-6re': !!python/unicode '^swa$'
+  !!python/unicode 'wa-6vre': !!python/unicode '^(.*[tdsz])wa$'
+  !!python/unicode 'wa-Ere': !!python/unicode '^(.*)vwa$'
+? !!python/tuple
+- !!python/unicode 'pP'
+- !!python/unicode 'is1S'
+: 6nâ-ês: ^v6nâ$
+  6vâ-ys: ^d6vâ$
+  6zâ-is: ^f6zâ$
+  Ejâ-ys: ^Ejâ$
+  Esâ-akis: ^nEsâ$
+  Etâ-fys: ^Etâ$
+  Ezâ-ys: ^plEzâ$
+  uvâ-ys: ^puvâ$
+  â-as: ^(.*[ptbdfsvz][iyEe926auOoêûâô][ptkbdgfsSvzZmnJlr])â$
+  â-is: ^(.*[ptbdfsvzrE6][jriEe6aêâ][ptbdfsvz])â$
+  â-ys: ^vulâ$
+? !!python/tuple
+- !!python/unicode 'pc1P'
+- !!python/unicode 'is1P'
+: !!python/unicode '6r..-is..': ^f6rjô$
+  !!python/unicode 'Or..-ys..': ^Orjô$
+  !!python/unicode 's6r..-fys..': ^s6rjô$
+? !!python/tuple
+- !!python/unicode 'pc1S'
+- !!python/unicode 'pi2S'
+: !!python/unicode '6.6rE-9.': !!python/unicode '^(.*[bdgmnJl])6([lr])6rE$'
+  !!python/unicode '6rE-': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])6rE$
+  !!python/unicode '6rE-E': !!python/unicode '^(.*)f6rE$'
+  !!python/unicode '6vrE-wa': !!python/unicode '^(.*[tdsz])6vrE$'
+  !!python/unicode 'ErE-e': !!python/unicode '^asjErE$'
+  !!python/unicode 'ErE-wa': !!python/unicode '^(.*)vErE$'
+  !!python/unicode 'O.6rE-o.': !!python/unicode '^(.*)O([ptbdfsvzl])6rE$'
+  !!python/unicode 'OdrE-o': !!python/unicode '^vOdrE$'
+  !!python/unicode 'OrE-E': !!python/unicode '^sOrE$'
+  !!python/unicode 'OrE-a': !!python/unicode '^OrE$'
+  !!python/unicode 'airE-E': !!python/unicode '^airE$'
+  !!python/unicode 'drE-': ^(.*[ptkbdgfsSvzZjlrwHE96O][jrwHiyEe926auOoêûâô])drE$
+  !!python/unicode 'irE-': !!python/unicode '^(.*[uOo][fv])rirE$'
+  !!python/unicode 'irE-va': !!python/unicode '^irE$'
+  !!python/unicode 'j6rE-': !!python/unicode '^(.*[ptfs])Ej6rE$'
+  !!python/unicode 'jErE-wa': !!python/unicode '^asjErE$'
+  !!python/unicode 'mirE-': !!python/unicode '^(.*)dOrmirE$'
+  !!python/unicode 'prE-': ^êtErôprE$
+  !!python/unicode 'rE-': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][jrwHiyEe926auOo])rE$
+  !!python/unicode 'rE-j': !!python/unicode '^(.*[ptfs])ErE$'
+  !!python/unicode 's6rE-E': !!python/unicode '^s6rE$'
+  !!python/unicode 'tirE-': ^(.*[ptbdfsvzmnrE96aOêûâô][r6â])tirE$
+  !!python/unicode 'trE-': !!python/unicode '^(.*[ptbdfsvzmnr][iyEe926auOo])trE$'
+  !!python/unicode 'u.rE-9.': !!python/unicode '^murrE$'
+  !!python/unicode 'udrE-2': !!python/unicode '^vudrE$'
+  !!python/unicode 'urE-2': !!python/unicode '^purE$'
+  !!python/unicode 'virE-': !!python/unicode '^sErvirE$'
+  !!python/unicode 'vrE-': !!python/unicode '^(.*[vjH])ivrE$'
+? !!python/tuple
+- !!python/unicode 'pc2P'
+- !!python/unicode 'ii2P'
+: !!python/unicode '6rje-e': !!python/unicode '^(.*[bgv])a([Jj])6rje$'
+  !!python/unicode '6rje-ije': ^râtr6rje$
+  !!python/unicode '6rje-je': ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJlr])6rje$
+  !!python/unicode 'E.6rje-6.je': !!python/unicode '^(.*)a([pbm])E([nl])6rje$'
+  !!python/unicode 'Er..-wa..': !!python/unicode '^vErje$'
+  !!python/unicode 'Or..-av..': !!python/unicode '^(.*)Orje$'
+  !!python/unicode 'drije-lje': !!python/unicode '^vudrije$'
+  !!python/unicode 'ir..-al..': !!python/unicode '^irje$'
+  !!python/unicode 'irje-je': ^(.*[fsvzrE96aO][r6â])tirje$
+  jêdrije-6nje: ^(.*[ptbdfsvz])jêdrije$
+  !!python/unicode 'r..-s..': !!python/unicode '^(.*[iEea][dzZn])irje$'
+  !!python/unicode 'r..-v..': !!python/unicode '^(.*[pbfvr][iyu])rje$'
+  !!python/unicode 'r..-z..': !!python/unicode '^(.*[ptbdfsvzl][iEe6])rje$'
+  !!python/unicode 'rije-je': ^(.*[ptbdfsvzrE6][jrwHiyEe926auOoêûâô][ptbdfsvz])rije$
+  !!python/unicode 'rje-je': !!python/unicode '^(.*[ptkbdgfsSvzZjrwHiyEe926uOo][jrwHiyEe926auOo])rje$'
+  !!python/unicode 's6rje-Etje': !!python/unicode '^s6rje$'
+  !!python/unicode 'trije-sje': !!python/unicode '^(.*)kOnEtrije$'
+  !!python/unicode 'warje-yvje': !!python/unicode '^bwarje$'
+  âdrije-6nje: ^(.*)prâdrije$
+  êdrije-EJe: ^krêdrije$
+? !!python/tuple
+- !!python/unicode 'pi1P'
+- !!python/unicode 'pi3P'
+: 6.ô-2.: ^kr6zô$
+  6.ô-9.: ^(.*[ptkbdgfsSvzZmnJlr])6([mnJjr])ô$
+  6.ô-E.: ^(.*[ptkbdgfsSvzZmnJlr])6([ptbdfsvzmnl])ô$
+  6nô-jEn: ^(.*[ptbdfsvz])6nô$
+  6vô-wav: ^(.*[tdsz])6vô$
+  6zô-ô: ^(.*)f6zô$
+  Ejô-wa: ^asEjô$
+  Erô-jEr: ^kôkErô$
+  Eô-e: ^krEô$
+  O.ô-o.: ^(.*)O([ptkbdgfsSvzZlr])ô$
+  Om-ô: !!python/unicode '^sOm$'
+  alô-vô: ^alô$
+  avô-ô: ^avô$
+  jô-: ^(.*[ptkbdgfsSvzZjrwH][iEea])jô$
+  jô-i: ^(.*[ptbdfsvzlr])jô$
+  u.ô-9.: ^([pbfv])u([vzl])ô$
+  wajô-Ej: ^aswajô$
+  yvô-wav: ^byvô$
+  ô-: ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHiyEe926uOoêûô])ô$
+? !!python/tuple
+- !!python/unicode 'pi1S'
+- !!python/unicode 'pi1P'
+: -dô: ^(.*[ptbdfsvzrE6][r6Oâô])$
+  -jô: !!python/unicode '^(.*[ptkbdgfsSvzZjrwH][iEea])$'
+  -mô: !!python/unicode '^(.*)dOr$'
+  -pô: ^êtErô$
+  -sô: ^(.*[ptkbdgfsSvzZmnJjlrwHE96Oêûô][iEe])$
+  -tô: ^(.*[ptbdfsvzmnrE96aOêûâô][jrwHiyEe926auOoêûâô])$
+  -vô: !!python/unicode '^(.*[vjrwHE96O][jriEe6])$'
+  -zô: !!python/unicode '^(.*[ptbdfsvzjlH][iEe])$'
+  -ô: ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHiyEe926uOoêûô])$
+  2-ulô: !!python/unicode '^v2$'
+  2-uvô: !!python/unicode '^p2$'
+  2.-6.ô: !!python/unicode '^kr2z$'
+  9.-6.ô: !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])9([mnJjr])$'
+  E-6zô: !!python/unicode '^(.*)fE$'
+  E-aisô: !!python/unicode '^E$'
+  E-avô: !!python/unicode '^(.*)E$'
+  E.-6.ô: !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])E([ptbdfsvzmnl])$'
+  !!python/unicode 'Hi-Om': !!python/unicode '^sHi$'
+  e-Eô: !!python/unicode '^kre$'
+  i-jô: !!python/unicode '^(.*[ptbdfsvzmnlr])i$'
+  jEr-Erô: ^kôkjEr$
+  je-Ejô: !!python/unicode '^asje$'
+  je-wajô: !!python/unicode '^asje$'
+  jê-6nô: ^(.*[ptbdfsvz])jê$
+  o-alô: !!python/unicode '^vo$'
+  o.-O.ô: !!python/unicode '^(.*)o([ptkbdgfsSvzZlr])$'
+  vE-alô: !!python/unicode '^vE$'
+  wa-6vô: !!python/unicode '^(.*[tdsz])wa$'
+  wa-Ejô: !!python/unicode '^aswa$'
+  wa-yvô: !!python/unicode '^bwa$'
+  â-6nô: ^(.*)prâ$
+  ê-EJô: ^([pkbgjE6a][ptbdfsvzlr])ê$
+  ê-aJô: ^(.*)Zwê$
+? !!python/tuple
+- !!python/unicode 'pi2P'
+- !!python/unicode 'ppFP'
+: '-': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwHiyEe926uOoêûô][ptbdEe])$
+  !!python/unicode '6ne-iz': !!python/unicode '^(.*)pr6ne$'
+  !!python/unicode '6ve-y': !!python/unicode '^(.*[tdsz])6ve$'
+  EJe-êt: !!python/unicode '^(.*[ptbdfsvzr])EJe$'
+  !!python/unicode 'Eje-iz': !!python/unicode '^asEje$'
+  !!python/unicode 'Ese-y': !!python/unicode '^(.*[pk][E96aO][mnr])Ese$'
+  !!python/unicode 'Ete-iz': !!python/unicode '^(.*)mEte$'
+  !!python/unicode 'He-': ^kôklyHe$
+  !!python/unicode 'ave-y': !!python/unicode '^ave$'
+  !!python/unicode 'e-i': ^(.*[ptkbdgfsSvzZjrwHE96aO][jriEe6aêâ][ptbdfsvzj])e$
+  !!python/unicode 'e-y': ^(.*[ptkbdgfsSvzZjrE6][jrwHiyEe926auOoêûâô][ptbdfsvzmnlr])e$
+  !!python/unicode 'ive-Eky': !!python/unicode '^vive$'
+  !!python/unicode 'ize-y': !!python/unicode '^lize$'
+  !!python/unicode 'je-': ^âfHije$
+  !!python/unicode 're-Ert': !!python/unicode '^(.*[uOo][fv])re$'
+  !!python/unicode 'se-': ^(.*[ptkbdgfsSvzZmnJjlrwHE96aOêûâô])ise$
+  !!python/unicode 'u.e-O.t': !!python/unicode '^mure$'
+  !!python/unicode 've-t': !!python/unicode '^(.*[fsvzE])krive$'
+  !!python/unicode 'waje-iz': !!python/unicode '^aswaje$'
+  !!python/unicode 'waje-y': !!python/unicode '^(.*)vwaje$'
+  !!python/unicode 'ze-t': ^(.*[ptkbdgfsSvzZjrE6][ptbdmnE96aOêûâô][bdvzr][bdjH])ize$
+? !!python/tuple
+- !!python/unicode 'pi2S'
+- !!python/unicode 'inf'
+: !!python/unicode '-He': !!python/unicode '^(.*[ptbdfsvzmnlr])y$'
+  !!python/unicode '-dr': ^(.*[ptkbdgfsSvzZjlrwHE96O][jrwHiyEe926auOoêûâô])$
+  !!python/unicode '-e': ^(.*[ptkbdgfsSvzZmnJjlrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlr])$
+  !!python/unicode '-ir': !!python/unicode '^(.*[kgw6uOo][fvjrwHiyEe926uOo])r$'
+  !!python/unicode '-je': !!python/unicode '^(.*[ptkbdgfsSvzZjlrwH][iEea])$'
+  !!python/unicode '-jir': !!python/unicode '^bu$'
+  !!python/unicode '-kr': ^vê$
+  !!python/unicode '-mir': !!python/unicode '^(.*)dOr$'
+  !!python/unicode '-pr': ^(.*)rô$
+  !!python/unicode '-r': ^(.*[ptkbdgfsSvzZmnJjlrwHE96aOêûâô][iyEe92a])$
+  !!python/unicode '-tir': ^(.*[ptbdfsvzmnrE96aOêûâô][r6â])$
+  !!python/unicode '-tr': !!python/unicode '^(.*[iyEe926auOo])$'
+  !!python/unicode '-vir': !!python/unicode '^(.*)sEr$'
+  !!python/unicode '-vr': !!python/unicode '^(.*[vjH])i$'
+  !!python/unicode '-vwar': !!python/unicode '^a$'
+  !!python/unicode '-we': !!python/unicode '^(.*[ptkbdgfsSvzZlr])u$'
+  !!python/unicode '2-ulwar': !!python/unicode '^v2$'
+  !!python/unicode '2-uvwar': !!python/unicode '^p2$'
+  !!python/unicode '2.-6.e': !!python/unicode '^(.*[Zr])2([dzn])$'
+  !!python/unicode '9.-6.e': !!python/unicode '^(.*[bdgvzZmnJlr])9([ptbdfsvzmnlr])$'
+  !!python/unicode '9.-6.ir': !!python/unicode '^(.*)k9j$'
+  !!python/unicode '9.-u.ir': !!python/unicode '^m9r$'
+  !!python/unicode '9..-6..e': !!python/unicode '^av9gl$'
+  !!python/unicode 'E-air': !!python/unicode '^E$'
+  !!python/unicode 'E-avwar': !!python/unicode '^sE$'
+  !!python/unicode 'E.-6.e': !!python/unicode '^(.*[ptkbdgfsSvzZmnJjlr])E([ptbdfsvzmnl])$'
+  !!python/unicode 'a-ir': !!python/unicode '^wa$'
+  !!python/unicode 'e-Ee': !!python/unicode '^agre$'
+  !!python/unicode 'i-je': !!python/unicode '^(.*[ptkbdgfsSvzZmnJlr])i$'
+  !!python/unicode 'je-war': !!python/unicode '^asje$'
+  jê-6nir: ^(.*[ptbdfsvz])jê$
+  !!python/unicode 'o-alwar': !!python/unicode '^vo$'
+  !!python/unicode 'o.-O.e': !!python/unicode '^(.*)o([ptkbdgfsSvzZlr])$'
+  !!python/unicode 'va-ale': !!python/unicode '^va$'
+  !!python/unicode 'wa-6vwar': !!python/unicode '^(.*[tdsz])wa$'
+? !!python/tuple
+- !!python/unicode 'pi3P'
+- !!python/unicode 'pc1P'
+: -6rjô: ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJlr])$
+  -irjô: !!python/unicode '^([ptfs][iyEe926auOo][fvr][ptbdfsvzr])$'
+  -riô: ^(.*[ptbdfsvzmnEê][jriEe6aêâ][ptbdfsvz])$
+  -rjô: !!python/unicode '^(.*[ptkbdgjwHiyEe926uOo][jrwHiyEe926uOo])$'
+  9.-6.6rjô: !!python/unicode '^dEZ9n$'
+  9.-u.rjô: !!python/unicode '^m9r$'
+  9l-udriô: !!python/unicode '^v9l$'
+  9v-urjô: !!python/unicode '^p9v$'
+  En-âdriô: !!python/unicode '^(.*)prEn$'
+  En-êdriô: !!python/unicode '^([bdvzr])6vjEn$'
+  av-Orjô: !!python/unicode '^sav$'
+  j-rjô: !!python/unicode '^pEj$'
+  o.-O.6rjô: !!python/unicode '^(.*[pk])oz$'
+  s-rjô: !!python/unicode '^finis$'
+  s-triô: !!python/unicode '^kOnEs$'
+  v-rjô: !!python/unicode '^bwav$'
+  vô-irjô: ^vô$
+  wa-Erjô: !!python/unicode '^(.*)vwa$'
+  wav-6vriô: !!python/unicode '^dwav$'
+  z-rjô: !!python/unicode '^([td][iEe])z$'
+  ô-6rjô: ^([fs])ô$
+  ô-Orjô: ^ô$
+? !!python/tuple
+- !!python/unicode 'ppFP'
+- !!python/unicode 'ps1P'
+: Et-asjô: !!python/unicode '^fEt$'
+  e-jô: !!python/unicode '^(.*[ptkbdgfsSvzZjrE6][kgjwHiyEe926auOo][ptbdfsvz])e$'
+  i-jô: ^sâti$
+  y-jô: !!python/unicode '^vuly$'
+? !!python/tuple
+- !!python/unicode 'ppMP'
+- !!python/unicode 'ai1P'
+: !!python/unicode '-m': !!python/unicode '^(.*[iy])$'
+  6ny-êm: ^(.*[ptkbdgjE6a][r6Oô])v6ny$
+  !!python/unicode 'E-im': !!python/unicode '^fE$'
+  !!python/unicode 'Er-rim': !!python/unicode '^(.*)uvEr$'
+  !!python/unicode 'e-am': ^(.*[ptkbdgfsSvzZmnJjrwHiyEe926auOoêûâô][ptkbdgfsSvzZmnJjlrwH])e$
+  !!python/unicode 'y-im': !!python/unicode '^(.*[ptbdfsvz])y$'
+  ê-EJim: ^atê$
+  ê-aJim: ^r6Zwê$
+? !!python/tuple
+- !!python/unicode 'ps1P'
+- !!python/unicode 'is2P'
+: a..ô-i..e: ^fasjô$
+  swa.ô-fys.e: ^swajô$
+? !!python/tuple
+- !!python/unicode 'ps1S'
+- !!python/unicode 'pI2S'
+: '-': !!python/unicode '^(.*[fsSvzZjrE6a])$'
+  En-â: !!python/unicode '^aprEn$'
+  En-ê: !!python/unicode '^(.*)vjEn$'
+  !!python/unicode 'aj-va': !!python/unicode '^aj$'
+  !!python/unicode 'as-E': !!python/unicode '^fas$'
+  !!python/unicode 'd-': ^râd$
+  !!python/unicode 'm-': !!python/unicode '^dOrm$'
+  !!python/unicode 's-': !!python/unicode '^([pkf][iyEe926uOo])n([iEe])s$'
+  !!python/unicode 'v-': !!python/unicode '^(.*[tdsz])wav$'
+? !!python/tuple
+- !!python/unicode 'ps2P'
+- !!python/unicode 'ai2P'
+: !!python/unicode 'asje-it': !!python/unicode '^fasje$'
+  !!python/unicode 'swaje-fyt': !!python/unicode '^swaje$'
+  !!python/unicode 'zje-t': !!python/unicode '^dizje$'

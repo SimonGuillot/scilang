@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "transicor.dtd">
+<Trans scribe="Finou" audio_filename="Les animaux fantastiques" video_filename="" version="4" version_date="181220">
+<Speakers>
+<Speaker id="spk1" name="speaker#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="366.838">
+<Turn startTime="0" endTime="3.517">
+<Sync time="0"/>
+
+<Event desc="jingle" type="comment" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.517" endTime="164.046">
+<Sync time="3.517"/>
+bonjour tout l'monde j'vais vous parler du film 
+<Event desc="nom du film" type="action" extent="begin"/>
+Les Animaux Fantastiques
+<Event desc="nom du film" type="action" extent="end"/>
+ alors avant d'commencer j'précise que moi personnellement jsuis pas un grand fan de l'univers 
+<Event desc="film autre" type="action" extent="begin"/>
+Harry Potter
+<Event desc="fiml autre" type="action" extent="end"/>
+ j'ai vu les un les deux j'ai pas heu trop vu la suite mais là j'ai adoré ce film 
+<Event desc="nom du film" type="action" extent="begin"/>
+Les Animaux Fantastiques
+<Event desc="nom du film" type="action" extent="end"/>
+ spin off ou préquel de 
+<Event desc="dis" type="comment" extent="begin"/>
+heu heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+<Event desc="scénariste" type="action" extent="begin"/>
+J .K . Rowling
+<Event desc="scénariste" type="action" extent="end"/>
+ qui fait quand même le scénario de ce film elle le réalise pas mais elle fait quand même le scénario donc on peut dire vraiment qu'c'est l'univers 
+<Event desc="film autre" type="action" extent="begin"/>
+Harry Potter
+<Event desc="film autre" type="action" extent="end"/>
+ 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ transposé d'une autre manière et surtout ça s'passe dans les années trente c'qui est aussi intéressant j'ai trouvé qu'le film avait la force de plaire à la fois aux plus jeunes comme aux adultes puisque finalement en plus du côté magique et spectaculaire du film on a un film qui 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ parle beaucoup d'politique et c'est vrai qu'la période 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah est assez propice pour en parler on est donc dans l'New-York des années trente le film commence avec des coupures de presses de journaux new-yorkais qui parlent d'évènement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ un peu paranormal qui arrive dans la ville et on voit aussi des coupures de presses 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de journaux à destination des sorciers qui expliquent qu'il est très important de n'pas dévoiler l'existence des sorciers 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ aux moldus aux non-mages comme on dit dans ces films là sous peine de déclenchement d'une guerre sachant qu'il y a la seconde Guerre mondiale qui arrive une quinzaine d'années après 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ évidemment qu'tout ça est assez 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ sérieux et y'a une scène aussi qu'vous verrez au début du film 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ dans une banque et là aussi 
+<Event desc="dis" type="comment" extent="begin"/>
+on
+<Event desc="dis" type="comment" extent="end"/>
+ on peut dire qu'c'est quand même un p'tit hommage à la crise 
+<Event desc="is" type="comment" extent="begin"/>
+heu
+<Event desc="is" type="comment" extent="end"/>
+ des années trente avec la banque qui est 
+<Event desc="dis" type="comment" extent="begin"/>
+un peu
+<Event desc="dis" type="comment" extent="end"/>
+ un peu spéciale et très méchante donc voilà ça c'est assez intéressant donc pour les gens qui 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ sont pas forcément charmés par le côté magique les animaux 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ du film et aussi y'a un p'tit peu une morale politique et un scénario plutôt bien foutu digne un peu des grands films de super héros comme on fait maintenant on a donc un jeune homme qui débarque à New-York avec une malette remplie enfin une valise remplie 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de créatures 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ très spéciales il va en perdre quelques-unes dans la ville de New-York et ils vont tous 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah courir après pendant qu'une grosse menace se 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah se situe aussi dans la ville de New-York un autre truc ça m'a beaucoup fait penser au film 
+<Event desc="film autre" type="action" extent="begin"/>
+Men in Black
+<Event desc="film autre" type="action" extent="end"/>
+ c'est à dire qu'on va avoir une sorte de service secret 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ des sorciers pour contrôler un p'tit peu la manière dont les sorciers 
+<Event desc="dis" type="comment" extent="begin"/>
+heu heu
+<Event desc="dis" type="comment" extent="end"/>
+ agissent dans la ville de New-York avec des agents donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ un bâtiment on va rentrer dedans où y'a quelques créatures un peu comme dans 
+<Event desc="film autre" type="action" extent="begin"/>
+Men in Black
+<Event desc="film autre" type="action" extent="end"/>
+ et puis surtout ils ont ce pouvoir comme dans 
+<Event desc="film autre" type="action" extent="begin"/>
+Men in Black
+<Event desc="film autre" type="action" extent="end"/>
+ d'effacer la mémoire aux gens qui auraient vu quelque chose de pas normal pour 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ maintenir à peu près 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ la tranquillité et la paix 
+<Event desc="dis" type="comment" extent="begin"/>
+des anim-
+<Event desc="dis" type="comment" extent="end"/>
+ des habitants de New-York en plus du fait que le film se passe vraiment à New-York vraiment ça peut forcément faire penser à 
+<Event desc="film autre" type="action" extent="begin"/>
+Men in Black
+<Event desc="film autre" type="action" extent="end"/>
+ à 
+<Event desc="film autre" type="action" extent="begin"/>
+Jumanji 
+<Event desc="film autre" type="action" extent="end"/>
+aussi par rapport à la chasse aux 
+<Event desc="dis" type="comment" extent="begin"/>
+aux
+<Event desc="dis" type="comment" extent="end"/>
+ animaux qu'il faut remettre 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ dans cette malette et j'ai trouvé ça assez excellent on va r'garder la bande annonce ensemble donc on est à New-York dans les années trente c'est assez dure de tourner des films à cette époque là évidemment c'est fait que avec d'la trois D et des fonds verts mais c'est super bien fait on s'pose jamais la question d'savoir est-ce qu'on est dans un décor là on est à Central Park tellement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est bien fait et puis l'côté magique du film 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah ça y contribue aussi on a vu 
+<Event desc="casting" type="action" extent="begin"/>
+Zoé Kravitz
+<Event desc="casting" type="action" extent="end"/>
+ la fille d'Lenny Kravitz qui joue 
+</Turn>
+<Turn startTime="164.046" endTime="164.82">
+<Sync time="164.046"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="164.82" endTime="183.872">
+<Sync time="164.82"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ un peu 
+<Event desc="dis" type="comment" extent="begin"/>
+la
+<Event desc="dis" type="comment" extent="end"/>
+ la chef des sorciers de New-York on a des jeunes héros 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ lui c'est un garçon qui a joué dans l'film Une merveilleuse histoire du temps qui est un jeune acteur qui est assez bon et puis les autres autour de lui sont 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ des jeunes aussi 
+<Event desc="casting" type="action" extent="begin"/>
+Colin Farrell
+<Event desc="casting" type="action" extent="end"/>
+ qui joue un cadre de 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ce service des sorciers on voit un p'tit animal là qui est extrêmement drôle alors j'marrête vite fait sur les animaux 
+</Turn>
+<Turn startTime="183.872" endTime="184.284">
+<Sync time="183.872"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="184.284" endTime="270.185">
+<Sync time="184.284"/>
+donc là aussi c'est d'la trois D là aussi c'est des effets spéciaux alors 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est assez synthétique mais jamais on s'pose la question est-ce que c'est vrai ou est-ce que c'est pas vrai tellement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le côté magique et sorcier 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah efface tout ça moi qui aime pas en général les images synthétiques 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ trop mal faites là franchement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ la mise en scène générale du truc fait qu'on se pose jamais la question on a ce personnage aussi 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ qui est 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ extremement drôle c'est un moldu un non-mage qui va 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ malgré lui se retrouver dans ces aventures là là on l'voit quand il rentre dans la valise alors pour vous expliquer la valise 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bon vous l'savez peut-être forcément contient une sorte d'univers à destination 
+<Event desc="dis" type="comment" extent="begin"/>
+des
+<Event desc="dis" type="comment" extent="end"/>
+ des animaux pour les remettre un p'tit peu dans leur habitat naturel 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ donc là c'est encore 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ plus intéressant puisqu'on s'moque finalement des effets spéciaux synthétiques de c'genre de film c'est à dire qu'on est à l'intérieur des valises dans une sorte de monde virtuel et les animaux sont mis 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ dans leur 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ dans leur élément naturel mais sous forme de décor on va avoir des rideaux comme ça si on ouvre un rideau on s'retrouve à la montagne et puis on s'apperçoit que sur le rideau c'est un dessin d'montagne pour qu'l'animal se croit un p'tit peu 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ chez lui avant d'le remettre dans son habitat naturel je crois qu'c'est un p'tit peu la mission 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de notre personnage principal donc ça aussi ça m'a 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ beaucoup plu le fait de ce 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ moquer un p'tit peu 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ des images synthétiques des effets spéciaux 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de c'film 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le personage 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ qu'on a vu à l'écran juste avant avec la moustache donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ est assez drôle donc vraiment 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ très convaincu par ce film 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ voilà là on voit des images de New-York en extérieur 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'en remet une couche là d'ssus 
+</Turn>
+<Turn startTime="270.185" endTime="270.495">
+<Sync time="270.185"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="270.495" endTime="345.634">
+<Sync time="270.495"/>
+ New-York des années trente c'est vraiment quelque chose 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ qu'on voit pas tant qu'ça au cinéma quand on l'voit en général c'est pas hyper bien fait et là on est 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ assez servi en même temps voilà c'est un grand film avec les moyens d'aujourd'hui c'est sur qu'y'a les moyens d'faire quelque chose d'assez spectaculaire on a vu une sorte de dôme 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ à l'écran 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ là vraiment ça fait un peu penser aux films catastrophes aux films de super-héros 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ donc oui le scénario est un p'tit peu calqué et cilché de ce genre de choses mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'ai pas trouvé ça très grave tellement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le reste est assez intéressant et assez sympathique voilà on voit un des animaux les plus impressionnants du film une sorte de oiseau un oiseau 
+<Event desc="rire" type="comment" extent="instantaneous"/>
+qui vol très haut tout simplement donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ alors pour moi franchement super bonne surprise ils vont en faire cinq paraît-il eh bien j'suis à deux doigts 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de tous aller les voir 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ tellement j'ai été convaincu par ce premier film 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+<Event desc="nom du film" type="action" extent="begin"/>
+les Animaux fantastiques
+<Event desc="nom du film" type="action" extent="end"/>
+ un univers très particulier pour terminer j'rajouterai ça qui saura 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ convaincre les jeunes qui aiment l'univers 
+<Event desc="film autre" type="action" extent="begin"/>
+Harry Potter
+<Event desc="film autre" type="action" extent="end"/>
+ ceux qui vont découvrir aussi cet univers et puis les vieux un peu comme moi enfin les plus vieux qui 
+<Event desc="dis" type="comment" extent="begin"/>
+heu heu
+<Event desc="dis" type="comment" extent="end"/>
+ sont pas impressionnés que par des effets spéciaux d'la sorcellerie et d'la magie voilà 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ n'hésitez pas à laisser un p'tit commentaire si vous voulez apporter quelques petites précisions corriger des erreurs que j'aurais pu faire puisque j'suis pas un spécialiste de ce genre de film je l'rappelle et puis 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ et puis voilà tout simplement 
+</Turn>
+<Turn startTime="345.634" endTime="351.1">
+<Sync time="345.634"/>
+
+<Event desc="jingle" type="comment" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="351.1" endTime="366.838">
+<Sync time="351.1"/>
+ vous pouvez laisser un petit commentaire non c'est pas ça ça j'lai déjà dit pardon non voilà vous pouvez par contre vous abonner à cette chaîne mettre 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ un petit clique sur une autre vidéo si ça vous interesse et puis 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ voilà je crois qu'j'ai tout dit oui j'ai tout dit bon bah c'est bon voilà allez vive le cinéma et à plus 
+</Turn>
+</Section>
+</Episode>
+</Trans>

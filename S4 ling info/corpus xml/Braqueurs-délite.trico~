@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "transicor.dtd">
+<Trans scribe="Finou" audio_filename="Braqueurs d'élite" video_filename="" version="8" version_date="181207">
+<Speakers>
+<Speaker id="spk1" name="speaker#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="!" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="908.957">
+<Turn startTime="0" endTime="3.213" speaker="spk1">
+<Sync time="0"/>
+bonjour à toutes et à tous et bienvenue dans 
+<Event desc="$" type="unclear" extent="begin"/>
+floxcinéma
+<Event desc="$" type="unclear" extent="end"/>
+
+</Turn>
+<Turn startTime="3.213" endTime="7.894">
+<Sync time="3.213"/>
+
+<Event desc="bruit" type="comment" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="7.894" endTime="14.4">
+<Sync time="7.894"/>
+
+<Event desc="jingle" type="comment" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.4" endTime="34.419">
+<Sync time="14.4"/>
+
+<Event desc="bruit" type="comment" extent="instantaneous"/>
+ aujourd'hui nous allons parler du coup du dernier film des productions 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ Besson 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ productions Besson et Europacorp si vous préférez Braqueur d'élites de son nom original Renegade alors j'vous avoue honnêtement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le titre original porte assez mal son nom parce que les mecs ne sont absolument pas des renégats donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ là pour le coup 
+</Turn>
+<Turn startTime="34.419" endTime="35.454">
+<Sync time="34.419"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.454" endTime="45.836">
+<Sync time="35.454"/>
+en fait ils sont pas non plus des braqueurs 
+<Event desc="dis" type="comment" extent="begin"/>
+donc heu
+<Event desc="dis" type="comment" extent="end"/>
+ mais au moins ils sont d'élite parce que l'équipe en question sont des 
+<Event desc="$" type="unclear" extent="begin"/>
+navycies
+<Event desc="$" type="unclear" extent="end"/>
+ mais on r'viendra à ça après hein 
+<Event desc="dis" type="comment" extent="begin"/>
+z-
+<Event desc="dis" type="comment" extent="end"/>
+ ne brûlons pas les étapes 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+
+</Turn>
+<Turn startTime="45.836" endTime="46.789">
+<Sync time="45.836"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.789" endTime="78.207">
+<Sync time="46.789"/>
+alors 
+<Event desc="dis" type="comment" extent="begin"/>
+je heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'ai noté à peu près l'nom du cast mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu f- 
+<Event desc="dis" type="comment" extent="end"/>
+j'pourrais vous parler du casting mais réalisé par Steven Quale j'en avais jamais entendu parler donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'pense que j'vous balance le nom vous n'savez absolument pas qui c'est bah ça va pas changer grand chose 
+<Event desc="dis" type="comment" extent="begin"/>
+à votre heu
+<Event desc="dis" type="comment" extent="end"/>
+ à votre vie 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ film scénarisé en tout cas co-scénarisé par Luc Besson et alors au niveau du cast je pourrai là encore vous balancer le nom du cast hein mais hé hé 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ sachez juste qu'il y a trois noms à retenir j'me suis fait mon anti-sèche hein c'est pour ça que j'regarde heu à droite 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ Sullivan Stapleton 
+</Turn>
+<Turn startTime="78.207" endTime="78.895">
+<Sync time="78.207"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="78.895" endTime="90.631">
+<Sync time="78.895"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+ç-
+<Event desc="dis" type="comment" extent="end"/>
+ ça n'vous dit rien hein alors c'est le mec qu'a joué dans le deuxième film trois cents le premier c'était avec 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ Gérard Butler hein qui faisait Léonidas et bah là le deuxième c'est avec lui voilà 
+</Turn>
+<Turn startTime="90.631" endTime="91.589">
+<Sync time="90.631"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="91.589" endTime="95.452">
+<Sync time="91.589"/>
+vous n'savez pas qui c'est bon c'est pas grave 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ Charly 
+<Event desc="dis" type="comment" extent="begin"/>
+Bio-
+<Event desc="dis" type="comment" extent="end"/>
+ Biolay 
+</Turn>
+<Turn startTime="95.452" endTime="96.123">
+<Sync time="95.452"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="96.123" endTime="101.385">
+<Sync time="96.123"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+qui
+<Event desc="dis" type="comment" extent="end"/>
+ alors lui par contre a joué dans quatre des cinq films Twilight 
+</Turn>
+<Turn startTime="101.385" endTime="103.224">
+<Sync time="101.385"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="103.224" endTime="124.422">
+<Sync time="103.224"/>
+voilà donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ si vous 
+<Event desc="dis" type="comment" extent="begin"/>
+av- 
+<Event desc="dis" type="comment" extent="end"/>
+apparemment si vous avez vu Twilight vous devrez savoir 
+<Event desc="dis" type="comment" extent="begin"/>
+qui
+<Event desc="dis" type="comment" extent="end"/>
+ qui est cette personne le seul nom au casting dont je vois à peu près qui c'est c'est JK Simons qui est surtout connu pour avoir incarné Jonah Jameson dans les trois films Spider Man de Sam Raimi ou encore pour avoir joué dans Whiplash donc si vous connaissez 
+<Event desc="dis" type="comment" extent="begin"/>
+heu ce
+<Event desc="dis" type="comment" extent="end"/>
+ les trois premiers Spider Man ou Whiplash vous devriez reconnaître cet homme 
+</Turn>
+<Turn startTime="124.422" endTime="125.696">
+<Sync time="124.422"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="125.696" endTime="143.91">
+<Sync time="125.696"/>
+et à chaque fois que j'le vois dans un film 
+<Event desc="dis" type="comment" extent="begin"/>
+il a t-
+<Event desc="dis" type="comment" extent="end"/>
+ il a toujours tendance à gueuler 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ comme une figure d'autorité bah dans Spider Man c'était ça avec Johna Jameson et 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ là du coup 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ c'est comme ça également dans ce film bon là il joue 
+<Event desc="dis" type="comment" extent="begin"/>
+il joue le
+<Event desc="dis" type="comment" extent="end"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu l'a-
+<Event desc="dis" type="comment" extent="end"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+l'amiral heu l'amiral
+<Event desc="dis" type="comment" extent="end"/>
+ l'amiral Levine donc le 
+<Event desc="dis" type="comment" extent="begin"/>
+su-
+<Event desc="dis" type="comment" extent="end"/>
+ supérieur de l'unité américaine 
+</Turn>
+<Turn startTime="143.91" endTime="146.64">
+<Sync time="143.91"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="146.64" endTime="150.658">
+<Sync time="146.64"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+donc heu
+<Event desc="dis" type="comment" extent="end"/>
+ donc du coup le casting est 
+<Event desc="dis" type="comment" extent="begin"/>
+est
+<Event desc="dis" type="comment" extent="end"/>
+ pas dingue hein 
+<Event desc="dis" type="comment" extent="begin"/>
+j'ai
+<Event desc="dis" type="comment" extent="end"/>
+
+</Turn>
+<Turn startTime="150.658" endTime="152.162">
+<Sync time="150.658"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="152.162" endTime="177.609">
+<Sync time="152.162"/>
+ça donne un peu 
+<Event desc="dis" type="comment" extent="begin"/>
+un
+<Event desc="dis" type="comment" extent="end"/>
+ le sentiment d'avoir un casting de ligue deux quoi 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ on est loin d'un casting all stars 
+<Event desc="dis" type="comment" extent="begin"/>
+comme
+<Event desc="dis" type="comment" extent="end"/>
+ voilà non c'est juste un casting de ligue deux quoi cherchez pas 
+<Event desc="dis" type="comment" extent="begin"/>
+une
+<Event desc="dis" type="comment" extent="end"/>
+ à peu près à savoir tiens j'connaît pas tel acteur vous n'les connaissez pratiquement pas hein c'est même pas la peine de chercher pratiquement c'est des gens qui ont fait que des séries télé ou 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ des qui ont fait des rôles totalement tertiaires dans des films voilà ne vous attendez pas 
+<Event desc="dis" type="comment" extent="begin"/>
+à des
+<Event desc="dis" type="comment" extent="end"/>
+ à des gens hyper connus 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ voilà 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+
+</Turn>
+<Turn startTime="177.609" endTime="178.562">
+<Sync time="177.609"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="178.562" endTime="181.658">
+<Sync time="178.562"/>
+mais justement ça en fait peut-être sa plus grande force mais on y r'viendra après 
+</Turn>
+<Turn startTime="181.658" endTime="183.197">
+<Sync time="181.658"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="183.197" endTime="184.943">
+<Sync time="183.197"/>
+l'histoire nous raconte alors 
+</Turn>
+<Turn startTime="184.943" endTime="186.018">
+<Sync time="184.943"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="186.018" endTime="187.498">
+<Sync time="186.018"/>
+j'aime bien commencer par l'histoire nous raconte 
+</Turn>
+<Turn startTime="187.498" endTime="188.12">
+<Sync time="187.498"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="188.12" endTime="190.208">
+<Sync time="188.12"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu l-
+<Event desc="dis" type="comment" extent="end"/>
+ l'histoire va être en deux parties 
+</Turn>
+<Turn startTime="190.208" endTime="190.908">
+<Sync time="190.208"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="190.908" endTime="210.302">
+<Sync time="190.908"/>
+vous allez comprendre la première partie 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ concerne 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ l'introduction du film qui 
+<Event desc="dis" type="comment" extent="begin"/>
+d'un cô-
+<Event desc="dis" type="comment" extent="end"/>
+ du coup raconte pendant la Seconde Guerre mondiale les nazis ont carrément pillé plusieurs lieux en France dont le Louvre heu dont 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ différents 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ lieux d'argent des banques etc et ont volé 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ beaucoup de lingots d'or 
+</Turn>
+<Turn startTime="210.302" endTime="211.339">
+<Sync time="210.302"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="211.339" endTime="232.56">
+<Sync time="211.339"/>
+beaucoup d'lingots d'or heu et pour une raison qui m'échappe devaient 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le mettre dans un village 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ alors à l'époque c'était la Yougoslavie 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ devaient les mettre dans un village 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ enfin en tout cas l'unité nazi se rend dans ce village en Yougoslavie tuent tous les gens présents sur place sauf un p'tit garçon qui a réussi à s'échapper grâce à mère 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ grâce à sa mère pardon 
+</Turn>
+<Turn startTime="232.56" endTime="233.42">
+<Sync time="232.56"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="233.42" endTime="243.807">
+<Sync time="233.42"/>
+et en gros pour faire simple 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ les nazis 
+<Event desc="dis" type="comment" extent="begin"/>
+ont
+<Event desc="dis" type="comment" extent="end"/>
+ devaient mettre ce trésor là dans un c'qu'il considèrent comme une banque dans un lieu bien gardé 
+</Turn>
+<Turn startTime="243.807" endTime="245.344">
+<Sync time="243.807"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="245.344" endTime="271.793">
+<Sync time="245.344"/>
+donc jusque là ok et 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ce p'tit garçon qui lui a réussi à s'échapper a trouvé 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de l'aide avec 
+<Event desc="dis" type="comment" extent="begin"/>
+des heu
+<Event desc="dis" type="comment" extent="end"/>
+ des résistants yougoslaves et ont fait explosé un barrage en amont du village 
+<Event desc="dis" type="comment" extent="begin"/>
+heu you-
+<Event desc="dis" type="comment" extent="end"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ yougoslave qui du coup a carrément 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah tué tous les nazis et du coup 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ recouvert 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le village 
+<Event desc="dis" type="comment" extent="begin"/>
+bah heu 
+<Event desc="dis" type="comment" extent="end"/>
+ d'eau c'qui fait qu'ça en fait un lac 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ dans l'ère moderne et cinquante ans plus tard donc en mille neuf cent quatre-vingt quinze 
+</Turn>
+<Turn startTime="271.793" endTime="272.702">
+<Sync time="271.793"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="272.702" endTime="280.677">
+<Sync time="272.702"/>
+il se trouve donc que 
+<Event desc="dis" type="comment" extent="begin"/>
+heu 
+<Event desc="dis" type="comment" extent="end"/>
+ une unité américaine 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ auréolée 
+<Event desc="dis" type="comment" extent="begin"/>
+du succ- du
+<Event desc="dis" type="comment" extent="end"/>
+ du succès d'une mission 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+
+</Turn>
+<Turn startTime="280.677" endTime="282.049">
+<Sync time="280.677"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="282.049" endTime="288.6">
+<Sync time="282.049"/>
+d'une mission 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ enfin le but était de 
+<Event desc="dis" type="comment" extent="begin"/>
+de
+<Event desc="dis" type="comment" extent="end"/>
+ capturer un général local et d'le ramener à la base 
+</Turn>
+<Turn startTime="288.6" endTime="289.817">
+<Sync time="288.6"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="289.817" endTime="353.015">
+<Sync time="289.817"/>
+discètement bon si vous entendez par discrètement le fait que 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ils ont dérobé un tank et 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ils ont réussi a s'débarasser de plein d'gens et ils ont détruit la moitié d'une ville on va dire 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ si pour vous 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est ça ça
+<Event desc="dis" type="comment" extent="end"/>
+ ça s'apelle discrètement 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ je suis au regret d'vous dire que vous avez du mal avec le mot discrètement voilà 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ c'est pour vous dire bon ils sont arrivé à la base saint et sauf hein 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ c'est pas l'problème mais bon nos cinq militaires allemand donc heu millitaires allemands ce sont des 
+<Event desc="$" type="unclear" extent="begin"/>
+navycies
+<Event desc="$" type="unclear" extent="end"/>
+ pardon désolé pourquoi j'dis allemands ah oui parce que j'ai parlé d'nazis avant c'est pour ça nos cinq militaires 
+<Event desc="$" type="unclear" extent="begin"/>
+navycies
+<Event desc="$" type="unclear" extent="end"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ du coup ont pour 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ non même pas pour mission parce que c'est même pas une mission en fait c'est 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ il s'trouve que l'un des cinq 
+<Event desc="$" type="unclear" extent="begin"/>
+navycies
+<Event desc="$" type="unclear" extent="end"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ sort avec une serveuse de bar il se trouve que cette serveuse de bar est la fille même pas c'est la petite fille 
+<Event desc="dis" type="comment" extent="begin"/>
+du
+<Event desc="dis" type="comment" extent="end"/>
+ du petit garçon de l'introduction là qui du coup est devenu grand-père et qui du coup a une petite fille et cette 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ serveuse de bar du coup a 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ un lingot d'or que son grand-père lui avait donné 
+</Turn>
+<Turn startTime="353.015" endTime="354.198">
+<Sync time="353.015"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="354.198" endTime="357.8">
+<Sync time="354.198"/>
+parce que 
+<Event desc="dis" type="comment" extent="begin"/>
+le
+<Event desc="dis" type="comment" extent="end"/>
+ le p'tit garçon avait réussi à dérober un lingot d'or 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ discrètement 
+</Turn>
+<Turn startTime="357.8" endTime="358.991">
+<Sync time="357.8"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="358.991" endTime="367.227">
+<Sync time="358.991"/>
+et 
+<Event desc="dis" type="comment" extent="begin"/>
+il
+<Event desc="dis" type="comment" extent="end"/>
+ cette 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ serveuse de bar arrivera à convaincre 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ nos cinq 
+<Event desc="$" type="unclear" extent="begin"/>
+navycies
+<Event desc="$" type="unclear" extent="end"/>
+ d'aller chercher ce trésor au fond du lac 
+</Turn>
+<Turn startTime="367.227" endTime="368.155">
+<Sync time="367.227"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="368.155" endTime="382.989">
+<Sync time="368.155"/>
+rassurez-vous il n'y a pas d'temple de l'eau au 
+<Event desc="dis" type="comment" extent="begin"/>
+d'ce
+<Event desc="dis" type="comment" extent="end"/>
+ de ce lac hein pour 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ceux qui ont compris la référence 
+<Event desc="rire" type="comment" extent="instantaneous"/>
+ non non rassurez-vous 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ quoi que ca aurait fait un chouette film ça aussi 
+<Event desc="rire" type="comment" extent="instantaneous"/>
+ temple de l'eau bref 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ non faut qu'j'évite de parler d'eau parce que je bref 
+</Turn>
+<Turn startTime="382.989" endTime="384.214">
+<Sync time="382.989"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="384.214" endTime="388.845">
+<Sync time="384.214"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bon pour une fois qu'ça parle d'eau et qu'y a pas de Guillermo del Toro dans l'histoire tant mieux 
+</Turn>
+<Turn startTime="388.845" endTime="390.296">
+<Sync time="388.845"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="390.296" endTime="405.392">
+<Sync time="390.296"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu les
+<Event desc="dis" type="comment" extent="end"/>
+ nos cinq 
+<Event desc="$" type="unclear" extent="begin"/>
+navycies
+<Event desc="$" type="unclear" extent="end"/>
+ vont aller chercher ce trèsor au fond du lac donc ces lingots d'or au fond du lac 
+<Event desc="dis" type="comment" extent="begin"/>
+et
+<Event desc="dis" type="comment" extent="end"/>
+ et bah j'en dis pas plus parce que 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ le but c'est d'savoir comment voilà mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est assez intéressant voilà 
+</Turn>
+<Turn startTime="405.392" endTime="406.932">
+<Sync time="405.392"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="406.932" endTime="410.033">
+<Sync time="406.932"/>
+alors mon avis personnel dessus 
+</Turn>
+<Turn startTime="410.033" endTime="411.549">
+<Sync time="410.033"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="411.549" endTime="418.282">
+<Sync time="411.549"/>
+je n'avais pas entendu parler d'ce film 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ avant la s'maine dernière quand j'ai commencé à préparer 
+<Event desc="dis" type="comment" extent="begin"/>
+mon
+<Event desc="dis" type="comment" extent="end"/>
+ mon agenda cinéma 
+</Turn>
+<Turn startTime="418.282" endTime="419.674">
+<Sync time="418.282"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="419.674" endTime="421.573">
+<Sync time="419.674"/>
+et je dois dire que c'est une bonne surprise 
+</Turn>
+<Turn startTime="421.573" endTime="422.454">
+<Sync time="421.573"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="422.454" endTime="513.308">
+<Sync time="422.454"/>
+alors même si comme j'ai dit le casting est digne d'un casting de ligue deux le fait que il n'y ait aucun nom ou aucune tête d'affiche 
+<Event desc="dis" type="comment" extent="begin"/>
+heu vie-
+<Event desc="dis" type="comment" extent="end"/>
+ dans ce film c'est peut-être sa plus grande force parce que du coup on a à faire à 
+<Event desc="dis" type="comment" extent="begin"/>
+des perf-
+<Event desc="dis" type="comment" extent="end"/>
+ des oui c'est ça des performances rafraîchissantes et on a à faire à des à quelque chose qui m'paraît naturel en terme de relation entre les personnages mention spéciale aussi au doublage français qui alors c'est pas un doublage all stars hein mais encore une fois je pense que ça doit être Dubing Browsers qui doit s'occuper du doublage français parce qu'encore une fois j'ai reconnu des voix alors 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le personnage principale celui qui du coup a joué 
+<Event desc="dis" type="comment" extent="begin"/>
+dans trois
+<Event desc="dis" type="comment" extent="end"/>
+ dans l'deuxième film trois cents est doublé par Xavier 
+<Event desc="$" type="unclear" extent="begin"/>
+Fagnan
+<Event desc="$" type="unclear" extent="end"/>
+ donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ la voix de 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ Dinozzo dans NCIS si ça vous parle un peu plus et l'autre personnage 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ principale de l'équipe parce que y'a cinq militaires hein mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ y'en a qu'deux qui du coup sont quand même très importants l'autre personnage est doublé par Adrien Antoine qui lui fait la voix d'Batman 
+<Event desc="dis" type="comment" extent="begin"/>
+de-
+<Event desc="dis" type="comment" extent="end"/>
+ depuis 
+<Event desc="dis" type="comment" extent="begin"/>
+presque heu
+<Event desc="dis" type="comment" extent="end"/>
+ presque quinze ans 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ donc en terme de doublage on r'connaît 
+<Event desc="dis" type="comment" extent="begin"/>
+des
+<Event desc="dis" type="comment" extent="end"/>
+ des voix 
+<Event desc="dis" type="comment" extent="begin"/>
+heu des voix
+<Event desc="dis" type="comment" extent="end"/>
+ qu'on peut entendre dans différentes séries américaines entre autre c'qui n'est pas dérangeant finalement parce que comme le casting est pas très connu on a au moins des voix qu'on connait donc du coup ça passe 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ça fait passer la pilule un peu mieux j'trouve 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ça fait passer la pilule un peu mieux et du coup on apprécie l'film pour c'qu'il est et je trouve ça vachement cool même si 
+</Turn>
+<Turn startTime="513.308" endTime="515.492">
+<Sync time="513.308"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="515.492" endTime="520.061">
+<Sync time="515.492"/>
+le film est certes très intéressant mais j'ai l'impression d'voir en fait un télé-film avec beaucoup d'budget 
+</Turn>
+<Turn startTime="520.061" endTime="521.609">
+<Sync time="520.061"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="521.609" endTime="580.523">
+<Sync time="521.609"/>
+donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu c- c-
+<Event desc="dis" type="comment" extent="end"/>
+ c'qui aurait pu être une critique négative mais n'en est pas une voilà 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ par contre alors gros point positif c'est l'un des rares films où la bande-annonce ne spoil même pas le film 
+<Event desc="dis" type="comment" extent="begin"/>
+les
+<Event desc="dis" type="comment" extent="end"/>
+ les trois quarts de c'que vous voyez dans la bande-annonce 
+<Event desc="dis" type="comment" extent="begin"/>
+ne
+<Event desc="dis" type="comment" extent="end"/>
+ ne correspondent à peu près à un quart du film et y'a une à deux séquences de la bande-annonce qui parlent 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ vers le milieu du film mais c'est tout donc profitez-en c'est l'un des rares 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ films où la bande-annonce ne spoil pas l'film ah du coup tant mieux tant mieux pendant un moment c'que j'mets souvent ici donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ quand j'fais mes vlogs ciné donc vous allez forcément la voir hein 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ c'est logique donc bon 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ point positif 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le doublage qui est de très bonne 
+<Event desc="dis" type="comment" extent="begin"/>
+qualit-
+<Event desc="dis" type="comment" extent="end"/>
+ 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ de très bonne qualité 
+<Event desc="dis" type="comment" extent="begin"/>
+le me
+<Event desc="dis" type="comment" extent="end"/>
+ l'histoire qui se tient assez facilement 
+<Event desc="dis" type="comment" extent="begin"/>
+la sc- une
+<Event desc="dis" type="comment" extent="end"/>
+ un autre point positif la scène où 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ l'équipe militaire va chercher tout le matériel pour préparer 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ l'opération 
+</Turn>
+<Turn startTime="580.523" endTime="581.711">
+<Sync time="580.523"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="581.711" endTime="598.084">
+<Sync time="581.711"/>
+limite c'est sensé être une opération sérieuse mais l'équipe est toujours en train d'déconner fin toujours non ils arrivent quand même à avoir des moment de 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ parfois grave des moments importants mais elle reste toujours de très bonne humeur et ça reste 
+<Event desc="dis" type="comment" extent="begin"/>
+ce
+<Event desc="dis" type="comment" extent="end"/>
+ ça permet vraiment 
+<Event desc="dis" type="comment" extent="begin"/>
+de
+<Event desc="dis" type="comment" extent="end"/>
+ de s'intégrer à l'histoire 
+<Event desc="dis" type="comment" extent="begin"/>
+hum 
+<Event desc="dis" type="comment" extent="end"/>
+
+</Turn>
+<Turn startTime="598.084" endTime="598.538">
+<Sync time="598.084"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="598.538" endTime="605.112">
+<Sync time="598.538"/>
+vraiment on n'sort par d'l'histoire on sort pas du film et j'trouve ça très intéressant point négatif et c'est en préparant du coup ce vlog 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="605.112" endTime="606.633">
+<Sync time="605.112"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="606.633" endTime="627.975">
+<Sync time="606.633"/>
+pourquoi les nazis ont mis les lingots d'or à c't'endroit là 
+<Event desc="dis" type="comment" extent="begin"/>
+ils a-
+<Event desc="dis" type="comment" extent="end"/>
+ est-ce qu'ils avaient prévu de garder cette ville comme base fortifiée pour leur opération ou est-ce que c'est juste une 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ comme 
+<Event desc="dis" type="comment" extent="begin"/>
+un
+<Event desc="dis" type="comment" extent="end"/>
+ un arrêt le temps d'un nuit repartir après enfin dans quel cas pourquoi ils ont mis les lingots à c't'endroit là enfin c'est j'ai pas compris même 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ ça a pas été expliqué plus dans l'film etc donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="627.975" endTime="628.928">
+<Sync time="627.975"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="628.928" endTime="633.557">
+<Sync time="628.928"/>
+donc bon c'est pas 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est pas
+<Event desc="dis" type="comment" extent="end"/>
+ c'est pas ouf autre point négatif 
+</Turn>
+<Turn startTime="633.557" endTime="634.082">
+<Sync time="633.557"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="634.082" endTime="647.822">
+<Sync time="634.082"/>
+le méchant 
+<Event desc="dis" type="comment" extent="begin"/>
+si on p-
+<Event desc="dis" type="comment" extent="end"/>
+ si on peut appeler ça un méchant 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ on l'voit à peine peut-être même pas un quart dans l'film il est là d'manière très 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ par pointe dans l'film mais il est pas là d'manière très régulier 
+</Turn>
+<Turn startTime="647.822" endTime="649.08">
+<Sync time="647.822"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="649.08" endTime="657.803">
+<Sync time="649.08"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+et
+<Event desc="dis" type="comment" extent="end"/>
+ et des fois j'ai tendance à m'demander mais pourquoi il est là fin qu'est-ce que ça apporte qu'y est un méchant finalement parce que y'aurait pas eu d'méchant ça aurait rien changé au film hein réellement 
+</Turn>
+<Turn startTime="657.803" endTime="658.327">
+<Sync time="657.803"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="658.327" endTime="663.184">
+<Sync time="658.327"/>
+donc bon 
+<Event desc="dis" type="comment" extent="begin"/>
+heu 
+<Event desc="bruit" type="comment" extent="begin"/>
+pff
+<Event desc="bruit" type="comment" extent="end"/>
+
+<Event desc="dis" type="comment" extent="end"/>
+ ouais c'est pas 
+</Turn>
+<Turn startTime="663.184" endTime="663.795">
+<Sync time="663.184"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="663.795" endTime="680.008">
+<Sync time="663.795"/>
+disons que en cette période de cinéma assez calme parce que les derniers gros blockbusters dataient quand même de fin juillet début août et comme les gros prochains blockbusters vont 
+<Event desc="dis" type="comment" extent="begin"/>
+com-
+<Event desc="dis" type="comment" extent="end"/>
+ commencer à dater à partir de fin septembre jusqu'à 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ fin octobre 
+</Turn>
+<Turn startTime="680.008" endTime="680.709">
+<Sync time="680.008"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="680.709" endTime="684.405">
+<Sync time="680.709"/>
+dans cette période assez creuse autant vous dire qu'ça peut être un film qui vaut l'coup 
+</Turn>
+<Turn startTime="684.405" endTime="685.039">
+<Sync time="684.405"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="685.039" endTime="697.952">
+<Sync time="685.039"/>
+il est intéressant il est sympathique il est agréable on passe un très bon moment le casting est certes pas ouf mais justement comme c'est un casting que je pense peu d'personnes 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ doivent savoir qui sont ces gens ça devrait pas poser d'problèmes 
+</Turn>
+<Turn startTime="697.952" endTime="698.361">
+<Sync time="697.952"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="698.361" endTime="709.181">
+<Sync time="698.361"/>
+j'veux dire des fois j'connais des gens qui 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ se disent ah bah tiens y'a Ben Afflek dedans oh bof j'ai pas envie d'aller voir c'film bah pourquoi j'aime pas Ben Affleck enfin pas moi mais j'connais des gens qui n'aiment pas Ben Affleck donc du coup 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ avec un film avec Ben Affleck ils aiment pas Ben Affleck 
+</Turn>
+<Turn startTime="709.181" endTime="710.047">
+<Sync time="709.181"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="710.047" endTime="732.952">
+<Sync time="710.047"/>
+parce qu'ils ont parce qu'il a laissé mourir Bruce Willis dans un film par exemple c'est 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ pour vous donner 
+<Event desc="dis" type="comment" extent="begin"/>
+un
+<Event desc="dis" type="comment" extent="end"/>
+ un petit exemple donc bon 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ non non la y'a aucun 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ mis à part JK Simmons que tout l'monde connait par Spider Man de Sam Raimi ou 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ par Whiplash mis à part lui 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ le reste du cast 
+<Event desc="dis" type="comment" extent="begin"/>
+heu il
+<Event desc="dis" type="comment" extent="end"/>
+ il est pas ouf voilà 
+<Event desc="dis" type="comment" extent="begin"/>
+les
+<Event desc="dis" type="comment" extent="end"/>
+ la plupart des gens sont des gens qui ont joué dans des séries télé ou dans des troisièmes rôles dans des films comme Twilight ouais des troisièmes rôles c'est vous dire 
+<Event desc="dis" type="comment" extent="begin"/>
+à t-
+<Event desc="dis" type="comment" extent="end"/>
+ à tel point 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="732.952" endTime="733.353">
+<Sync time="732.952"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="733.353" endTime="739.024">
+<Sync time="733.353"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+c'est pas hum il est
+<Event desc="dis" type="comment" extent="end"/>
+ c'est pas l'fait qu'il ait joué dans Twilight c'est l'fait qu'il était troisième rôle dans Twilight c'est limite digne d'un figurant quoi donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="739.024" endTime="739.501">
+<Sync time="739.024"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="739.501" endTime="748.873">
+<Sync time="739.501"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu 
+<Event desc="bruit" type="comment" extent="begin"/>
+pff
+<Event desc="bruit" type="comment" extent="end"/>
+
+<Event desc="dis" type="comment" extent="end"/>
+ ouais y'a un mec qui a joué dans Docteur Who qui fait partit 
+<Event desc="dis" type="comment" extent="begin"/>
+des
+<Event desc="dis" type="comment" extent="end"/>
+ des cinq militaires d'l'équipe oui alors là c'est Who pour les fans de Docteur Who c'est juste le temps d'un épisode donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ oh calmez-vous hein 
+</Turn>
+<Turn startTime="748.873" endTime="749.792">
+<Sync time="748.873"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="749.792" endTime="760.996">
+<Sync time="749.792"/>
+donc bon 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ voilà pas grand chose 
+<Event desc="dis" type="comment" extent="begin"/>
+de de de tru-
+<Event desc="dis" type="comment" extent="end"/>
+ enfin de ouais j'ai pas j'ai beau essayer d'réfléchir j'ai fait points positifs points négatifs mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="760.996" endTime="762.226">
+<Sync time="760.996"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="762.226" endTime="764.993">
+<Sync time="762.226"/>
+pas grand chose à en dire honnêtement si 
+</Turn>
+<Turn startTime="764.993" endTime="766.029">
+<Sync time="764.993"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="766.029" endTime="768.047">
+<Sync time="766.029"/>
+un autre un dernier point positif 
+</Turn>
+<Turn startTime="768.047" endTime="768.508">
+<Sync time="768.047"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="768.508" endTime="771.97">
+<Sync time="768.508"/>
+j'ai fait points positifs points négatifs mais je revient aux points positifs la fin 
+</Turn>
+<Turn startTime="771.97" endTime="772.923">
+<Sync time="771.97"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="772.923" endTime="779.547">
+<Sync time="772.923"/>
+ no spoil encore une fois mais la fin est très très très surprenante 
+</Turn>
+<Turn startTime="779.547" endTime="780.178">
+<Sync time="779.547"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="780.178" endTime="781.231">
+<Sync time="780.178"/>
+dans l'sens où on t'fait 
+</Turn>
+<Turn startTime="781.231" endTime="782.987">
+<Sync time="781.231"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="782.987" endTime="783.542">
+<Sync time="782.987"/>
+ah 
+</Turn>
+<Turn startTime="783.542" endTime="785.266">
+<Sync time="783.542"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="785.266" endTime="785.817">
+<Sync time="785.266"/>
+bon 
+</Turn>
+<Turn startTime="785.817" endTime="786.083">
+<Sync time="785.817"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="786.083" endTime="798.624">
+<Sync time="786.083"/>
+ok et puis en même temps ça correspond au ton du film bah oui parce que on vous montre une équipe de cinq donc du coup 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ équipe de cinq qui est un peu 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'vais pas dire qu'elle prend tout par d'ssus la jambe mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="798.624" endTime="799.676">
+<Sync time="798.624"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="799.676" endTime="848.757">
+<Sync time="799.676"/>
+mais au moins elle a l'mérite d'être 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ divertissante marrante un peu comique sur les bords mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu 
+<Event desc="bruit" type="comment" extent="begin"/>
+pff
+<Event desc="bruit" type="comment" extent="end"/>
+ 
+<Event desc="dis" type="comment" extent="end"/>
+ ouais ils prennent 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ limite 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ tout avec de l'ironie genre par exemple ils s'font dans ils sont dans une embuscade avec 
+<Event desc="dis" type="comment" extent="begin"/>
+heu des
+<Event desc="dis" type="comment" extent="end"/>
+ une unité 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ serbe ou 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bosniaque ou j'sais plus c'que c'est 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ limite 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah ils prennent ça avec une p'tite blague une p'tite vanne 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ t'as un mec qu'a faillit crever 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+<Event desc="rire" type="comment" extent="instantaneous"/>
+ limite 
+<Event desc="dis" type="comment" extent="begin"/>
+ils
+<Event desc="dis" type="comment" extent="end"/>
+ ouais non 
+<Event desc="dis" type="comment" extent="begin"/>
+ils heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est limite 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bon aller on va s'faire un kebab après oh non non non j'suis fatigué j'veux rentrer à la base 
+<Event desc="rire" type="comment" extent="instantaneous"/>
+c'est limite 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ ils prennent tout par d'ssus la jambe quoi c'est 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ moi j'trouve ça drôle et du coup ouais ça je sais pas ça m'permet d'rester dans l'ton du film fin c'est tout l'film est comme ça voilà donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est un point positif ouais 
+<Event desc="dis" type="comment" extent="begin"/>
+c'est
+<Event desc="dis" type="comment" extent="end"/>
+ c'est une bonne surprise voilà 
+</Turn>
+<Turn startTime="848.757" endTime="849.689">
+<Sync time="848.757"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="849.689" endTime="867.716">
+<Sync time="849.689"/>
+bon voilà voilà c'est bah c'était Braqueurs d'élite fin braqueurs ils ont braqué personne techniquement c'est plus 
+<Event desc="dis" type="comment" extent="begin"/>
+un
+<Event desc="dis" type="comment" extent="end"/>
+ un casse qu'autre chose mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est fin bref 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ bah du coup merci à vous d'avoir suivit 
+<Event desc="dis" type="comment" extent="begin"/>
+ce
+<Event desc="dis" type="comment" extent="end"/>
+ ce vlog en espérant vous avoir convaincu enfin du mieux qu'je peux malgré mes hésitations parce que j'ai essayé d'chercher mes mots pas mal de fois 
+</Turn>
+<Turn startTime="867.716" endTime="868.227">
+<Sync time="867.716"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="868.227" endTime="871.738">
+<Sync time="868.227"/>
+ce film m'a paru très sympa mais pour l'expliquer correctement 
+</Turn>
+<Turn startTime="871.738" endTime="872.652">
+<Sync time="871.738"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="872.652" endTime="877.567">
+<Sync time="872.652"/>
+y'a eu quelques hésitations dans cette vidéo je reconnait donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ c'est pour ça honnêtement j'vais pas m'casser la tête au montage 
+</Turn>
+<Turn startTime="877.567" endTime="878.47">
+<Sync time="877.567"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="878.47" endTime="884.824">
+<Sync time="878.47"/>
+
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ du coup 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'devait aller voir Kin le commencement j'hésite franchement à y aller 
+</Turn>
+<Turn startTime="884.824" endTime="885.995">
+<Sync time="884.824"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="885.995" endTime="888.696">
+<Sync time="885.995"/>
+parce qu'aux vus d'la bande-annonce ça a l'air sympa mais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ 
+</Turn>
+<Turn startTime="888.696" endTime="889.958">
+<Sync time="888.696"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="889.958" endTime="891.325">
+<Sync time="889.958"/>
+j'me sens pas convaincu d'y aller 
+</Turn>
+<Turn startTime="891.325" endTime="892.474">
+<Sync time="891.325"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="892.474" endTime="893.812">
+<Sync time="892.474"/>
+je verrai peut-être mercredi prochain 
+</Turn>
+<Turn startTime="893.812" endTime="894.569">
+<Sync time="893.812"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="894.569" endTime="907.135">
+<Sync time="894.569"/>
+j'ai encore l'temps peut-être ça s'trouve au moment où vous voyez cette vidéo j'n'irai 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ j'n'aurai peut-être pas vu l'film donc qui sait 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ et je n'aurai peut-être jamais vu l'film donc 
+<Event desc="dis" type="comment" extent="begin"/>
+heu ah je je 
+<Event desc="dis" type="comment" extent="end"/>
+ ouais 
+<Event desc="dis" type="comment" extent="begin"/>
+heu
+<Event desc="dis" type="comment" extent="end"/>
+ du coup on s'retrouve très vite pour de prochaines vidéos d'ici là portez vous bien 
+</Turn>
+<Turn startTime="907.135" endTime="907.652">
+<Sync time="907.135"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="907.652" endTime="908.144">
+<Sync time="907.652"/>
+ salut 
+</Turn>
+<Turn startTime="908.144" endTime="908.957">
+<Sync time="908.144"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
